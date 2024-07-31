@@ -85,7 +85,7 @@ nameObj.method();
 
 ```javascript
 
-1. this 사용 - <빈칸>을 작성해주세요
+1. <빈칸>을 작성해주세요
 const obj1 = {
   value :20,
   getValue(){
